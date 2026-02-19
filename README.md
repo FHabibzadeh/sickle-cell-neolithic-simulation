@@ -13,7 +13,7 @@ The simulations reported in both papers were originally written in **C** (highly
 
 ### ✨ Features
 - Fully discrete, individual-based Monte Carlo (up to 10 000+ repeats)
-- Realistic Neolithic demography (hunter→farmer transition at generation 5, variable family sizes, 5 % generational overlap, logistic growth)
+- Realistic Neolithic demography (hunter→farmer transition at generation 5, variable family sizes, 5% generational overlap, logistic growth)
 - Parallel processing on all CPU cores (4–12× speedup via joblib)
 - Two modes: `paper1` (malaria-only) and `paper2` (multi-disease)
 - Full CSV output + publication-quality plot
@@ -28,4 +28,5 @@ pip install -r requirements.txt
 python sickle_cell_simulation.py --mode paper1 --repeats 10000 --n_jobs -1 --plot
 
 # Reproduce Paper 2
+
 python sickle_cell_simulation.py --mode paper2 --repeats 10000 --n_jobs -1 --plot
