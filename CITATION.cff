@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Sickle Cell Neolithic Simulation"
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: Habibzadeh
+    given-names: Farrokh
+    orcid: https://orcid.org/0000-0001-5360-2900
+repository-code: https://github.com/FHabibzadeh/sickle-cell-neolithic-simulation
+license: MIT
+version: 1.0
+date-released: 2026-02-20
+doi: 10.5281/zenodo.18704663
