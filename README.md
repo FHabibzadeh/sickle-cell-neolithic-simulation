@@ -28,5 +28,5 @@ pip install -r requirements.txt
 python sickle_cell_simulation.py --mode paper1 --repeats 10000 --n_jobs -1 --plot
 
 # Reproduce Paper 2
-
 python sickle_cell_simulation.py --mode paper2 --repeats 10000 --n_jobs -1 --plot
+
