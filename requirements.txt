@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+tqdm
+numba  # optional, speeds up runs 10-50×
