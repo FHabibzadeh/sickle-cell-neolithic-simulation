@@ -20,7 +20,7 @@ The simulations reported in both papers were originally written in **C** (highly
 
 ### 🚀 Quick Start
 ```bash
-git clone https://github.com/YOUR-USERNAME/sickle-cell-neolithic-simulation.git
+git clone https://github.com/FHabibzadeh/sickle-cell-neolithic-simulation.git
 cd sickle-cell-neolithic-simulation
 pip install -r requirements.txt
 
@@ -29,4 +29,5 @@ python sickle_cell_simulation.py --mode paper1 --repeats 10000 --n_jobs -1 --plo
 
 # Reproduce Paper 2
 python sickle_cell_simulation.py --mode paper2 --repeats 10000 --n_jobs -1 --plot
+
 
