@@ -41,7 +41,7 @@ These simulations model the process in a small Neolithic tribe (25 couples) tran
 └── README.md
 ```
 
-**Note:** This Python implementation is a faithful port of the original ANSI C99 programs, using the identical Park-Miller PRNG for bit-for-bit reproducibility with the published results.
+**Note:** This Python implementation is a faithful port of the original C programs, using the identical Park-Miller PRNG for bit-for-bit reproducibility with the published results.
 
 ---
 
@@ -188,4 +188,5 @@ If you use this code, please cite:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
