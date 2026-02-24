@@ -1,7 +1,6 @@
 # Neolithic HbS / Sickle-Cell Gene Stochastic Simulation
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-ANSI%20C99-orange.svg)](https://en.wikipedia.org/wiki/C99)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18704663.svg)](https://doi.org/10.5281/zenodo.18704663)
 
@@ -189,3 +188,4 @@ If you use this code, please cite:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
